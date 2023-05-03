@@ -11,3 +11,6 @@ indicates a stage with
 (ii) one CNOT operator on qubits 2 and 3. 
 
 Operators Tct and Sct are conjugate transposes of T and S, respectively.
+
+### Publications
+IEEE Access, [Quantum Program Synthesis through Opeartor Learning and Selection ](https://doi.org/10.1109/ACCESS.2023.3257192) [[video](https://youtu.be/WLZ-VjLcEh4)]
